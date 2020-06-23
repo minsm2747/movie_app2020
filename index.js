@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom';
 // import './index.css';
 import App from './App';
 // import * as serviceWorker from './serviceWorker';
-import Potato from "./Potato";
+// import Potato from "./Potato";
 
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    <Potato />,
+    {/* <Potato /> */}
   </React.StrictMode>,
   document.getElementById('root')
 );
